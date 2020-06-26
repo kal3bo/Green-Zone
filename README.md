@@ -8,6 +8,11 @@
 - FireBase
 
 ## Concept
+
+<p align="center">
+  <img src="Images/Green Zone.png">
+</p> 
+
 Green Zone app will provide users with essential information on the services, such as restaurants, cafes, public libraries and hospitals that are open and safe to go during the COVID-19 restriction in the city of Vancouver. Users can see an AR map of Vancouver Downtown with pop up green checkmarks for places that are open and safe to go.  
 
 ## Tasks
